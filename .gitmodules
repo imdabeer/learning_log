@@ -1,2 +1,4 @@
-[submodule]
+[submodule "learning_log"]
+	path = learning_log
+	url = https://example.com/dummy.git
 
