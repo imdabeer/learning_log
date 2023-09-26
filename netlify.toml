@@ -1,5 +1,5 @@
 [build]
-command = "cd programs/programs/learning_log && python manage.py collectstatic --noinput"
+command = "cd D:/programs/programs/learning_log/learning_log && python manage.py collectstatic --noinput"
 publish = "/"
 
 
