@@ -1,6 +1,8 @@
 [build]
-command = "cd D:/programs/programs/learning_log/learning_log/main && python manage.py collectstatic --noinput"
-publish = "D:/programs/programs/learning_log/learning_log/"
+base = "main"
+command = "python main/manage.py collectstatic --noinput"
+publish = "main"
+
 
 
 
