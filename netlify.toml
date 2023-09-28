@@ -1,7 +1,7 @@
 [build]
-base = "main"
-command = "python main/manage.py collectstatic --noinput"
-publish = "main"
+publish = "d:/programs/programs/learning_log/learning_log"  # Path to the root directory
+command = "cd d:/programs/programs/learning_log/learning_log && cd main && python manage.py collectstatic --noinput"
+
 
 
 
