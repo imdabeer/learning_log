@@ -1,5 +1,5 @@
 [build]
-publish = "d:/programs/programs/learning_log/learning_log"  # Path to the root directory
+publish = "d:/programs/programs/learning_log/learning_log"  
 command = "cd d:/programs/programs/learning_log/learning_log && cd main && python manage.py collectstatic --noinput"
 
 
