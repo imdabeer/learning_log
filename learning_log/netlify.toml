@@ -1,0 +1,7 @@
+[build]
+command = "cd programs/programs/learning_log && python manage.py collectstatic --noinput"
+publish = "/"
+
+
+
+
